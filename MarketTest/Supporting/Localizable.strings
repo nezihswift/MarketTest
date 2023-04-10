@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  MarketTest
+
+  Created by Nezih on 9.04.2023.
+  
+*/
+
+"popup.title" = "Sepeti Temizle";
+"popup.text" = "Sepeti temizlemek istediğinize emin misiniz?";
+"popup.accept" = "Temizle";
+"popup.reject" = "İptal";
